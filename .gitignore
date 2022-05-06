@@ -1,0 +1,8 @@
+.gitignore Maven
+Thumbs.db
+.DS_Store
+target/
+out/
+.idea/
+*.iml
+*.iws
